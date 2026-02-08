@@ -6,7 +6,7 @@
 <h1 align="center">hey 👋 I'm Pasindu Sankalpa Basnayaka</h1>
 
 <!-- Social Media -->
-### <div align="center"> <a href="mailto:pasindusanke0303@gmail.com" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="57" height="45" alt="gmail logo" /> </a> <a href="https://www.facebook.com/share/1A7Jxxicwq/?mibextid=wwXIfr" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="57" height="45" alt="facebook logo" /> </a> <a href="https://www.youtube.com/Pasindu Sankalpa Basnayaka" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="57" height="45" alt="youtube logo" /> </a> <a href="https://wa.me/94759307606" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="57" height="45" alt="whatsapp logo" /> </a> <a href="https://t.me/@Pasindusanke0303" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="57" height="45" alt="telegram logo" /> </a> <a href="https://www.linkedin.com/in/pasindu-basnayaka" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="57" height="45" alt="linkedin logo" /> </a> <a href="https://www.instagram.com/sankalpa0303" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="57" height="45" alt="instagram logo" /> </a> </div> ###
+### <div align="center"> <a href="mailto:pasindusanke0303@gmail.com" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="57" height="45" alt="gmail logo" /> </a> <a href="https://www.facebook.com/share/1A7Jxxicwq/?mibextid=wwXIfr" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="57" height="45" alt="facebook logo" /> </a> <a href="https://www.youtube.com/Pasindu Sankalpa Basnayaka" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="57" height="45" alt="youtube logo" /> </a> <a href="https://wa.me/94759307606" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="57" height="45" alt="whatsapp logo" /> </a>  <a href="https://www.linkedin.com/in/pasindu-basnayaka" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="57" height="45" alt="linkedin logo" /> </a>  </div> ###
 
 <!-- About Me -->
 <h3 align="left">👩‍💻 About Me</h3>
@@ -75,13 +75,13 @@
 
 <!-- Snake Animation -->
 <div style="text-align: center; margin-bottom: 30px;">
-  <img src="https://raw.githubusercontent.com/sankalpa0303/sankalpa0303/output/snake.svg" alt="Snake animation" style="width: 100%; max-width: 800px;" />
+  <img src="https://raw.githubusercontent.com/sankalpa0303/sankalpa0303/output/snake.svg" alt="Snake animation" style="width: 100%; max-width: 1000px;" />
 </div>
 
 <!-- My Stats -->
 <h3 align="left">🔥 My Stats :</h3>
 <div align="center" style="margin-bottom: 30px;">
-  <img src="https://streak-stats.demolab.com?user=sankalpa0303&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=sankalpa0303&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="420" alt="streak graph" />
 </div>
 
 <br>
