@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Pasindu Sankalpa Basnayaka</h1>
+<h1 align="center">Hi , I'm Pasindu Sankalpa Basnayaka</h1>
 <h3 align="center">
-🚀 Data Science Student from Sri Lanka<br/>
+ Data Science Student from Sri Lanka<br/>
 Python • SQL • Machine Learning • Analytics
 </h3>
 
@@ -10,7 +10,7 @@ Python • SQL • Machine Learning • Analytics
 
 ---
 
-## 🧠 About Me
+##  About Me
 
 - 🔭 Currently working on **AI Chatbot using Gemini API (MERN Stack)**
 - 🌱 Learning **Python, SQL, Pandas, NumPy, Scikit-Learn, Machine Learning & Data Visualization**
@@ -21,7 +21,7 @@ Python • SQL • Machine Learning • Analytics
 
 ---
 
-## 🌐 Portfolio & Contact
+##  Portfolio & Contact
 
 <p align="center">
   🌐 <a href="https://pasindu-sankalpa-basnayaka.netlify.app/">Portfolio</a> •
@@ -30,7 +30,7 @@ Python • SQL • Machine Learning • Analytics
 
 ---
 
-## 🤝 Connect With Me
+##  Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/pasindu-basnayaka">
@@ -46,7 +46,7 @@ Python • SQL • Machine Learning • Analytics
 
 ---
 
-## 🛠️ Languages & Tools
+##  Languages & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,mysql,mongodb,java,js,react,nodejs,html,css,tailwind,git,linux,aws,figma&theme=dark" />
@@ -58,7 +58,7 @@ Python • SQL • Machine Learning • Analytics
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sankalpa0303&theme=tokyonight&hide_border=true"/>
