@@ -20,17 +20,7 @@
 </p>
 
 <!-- Programming Languages -->
-<h3 align="left">📊 Programming Languages</h3>
-<div style="
-    display: flex;
-    justify-content: center;
-    flex-wrap: nowrap;       /* keep in one line */
-    gap: 10px;
-    overflow-x: auto;        /* allow horizontal scroll on small screens */
-    padding-bottom: 10px;    /* some spacing */
-">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="50" alt="r logo" />
-  <img src="<!-- Programming Languages -->
+<!-- Programming Languages -->
 <h3 align="left">📊 Programming Languages</h3>
 <div style="
     display: flex;
@@ -81,6 +71,7 @@
   <img src="https://skillicons.dev/icons?i=postman" height="50" alt="postman logo" style="border-radius: 10px;" />
   <img src="https://skillicons.dev/icons?i=visualstudio" height="50" alt="visualstudio logo" style="border-radius: 10px;" />
 </div>
+
 
 
 <!-- Snake Animation -->
