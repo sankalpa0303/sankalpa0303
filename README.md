@@ -33,27 +33,30 @@ Python • SQL • Machine Learning • Analytics
 ##  Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/pasindu-basnayaka">
+  <a href="https://linkedin.com/in/pasindu-basnayaka" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/sankalpa0303">
+
+  <a href="https://instagram.com/sankalpa0303" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://www.youtube.com/c/pasindu sankalpa basnayaka">
+
+  <a href="https://www.youtube.com/@pasindusankalpabasnayaka" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
+
+  <a href="https://github.com/your-username" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
+
 
 ---
 
 ##  Languages & Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,mongodb,java,js,react,nodejs,html,css,tailwind,git,linux,aws,figma&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=pandas,numpy,sklearn&theme=dark" />
+<p align="center" width="40">
+  <img src="https://skillicons.dev/icons?i=pandas,numpy,python,mysql,mongodb,java,js,react,nodejs,html,css,tailwind,git,aws,figma&theme=dark" />
 </p>
 
 ---
