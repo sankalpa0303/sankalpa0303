@@ -5,8 +5,10 @@
 <!-- Name -->
 <h1 align="center">hey 👋 I'm Pasindu Sankalpa Basnayaka</h1>
 
-<!-- Social Media -->
-### <div align="center"> <a href="mailto:pasindusanke0303@gmail.com" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" height="40" alt="gmail logo" /> </a> <a href="https://www.facebook.com/share/1A7Jxxicwq/?mibextid=wwXIfr" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="50" height="40" alt="facebook logo" /> </a> <a href="https://www.youtube.com/Pasindu Sankalpa Basnayaka" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="50" height="40" alt="youtube logo" /> </a> <a href="https://wa.me/94759307606" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="50" height="40" alt="whatsapp logo" /> </a>  <a href="https://www.linkedin.com/in/pasindu-basnayaka" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="40" alt="linkedin logo" /> </a>  </div> ###
+<!-- Data Science Typing Line -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&pause=1100&center=true&vCenter=true&width=920&duration=2800&lines=Turning+data+into+insights+with+Python+and+SQL;Machine+Learning+%2B+Statistics+%2B+Data+Visualization;Pandas+%2F+NumPy+%2F+Scikit-Learn+%E2%80%A2+Clean+Analysis+%E2%80%A2+Real-World+Problems" alt="typing">
+</p>
 
 <!-- About Me -->
 <h3 align="left">👩‍💻 About Me</h3>
@@ -23,6 +25,7 @@
 ###
 ## 🧰 Tech Stack
 
+<br>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -50,9 +53,17 @@
 ###
 ## 👨‍🎓 My Stats
 
+<br>
+
 <div align="center" style="margin-bottom: 30px;">
   <img src="https://streak-stats.demolab.com?user=sankalpa0303&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="420" alt="streak graph" />
 </div>
+
+
+
+
+<!-- Social Media -->
+### <div align="center"> <a href="mailto:pasindusanke0303@gmail.com" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" height="40" alt="gmail logo" /> </a> <a href="https://www.facebook.com/share/1A7Jxxicwq/?mibextid=wwXIfr" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="50" height="40" alt="facebook logo" /> </a> <a href="https://www.youtube.com/Pasindu Sankalpa Basnayaka" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="50" height="40" alt="youtube logo" /> </a> <a href="https://wa.me/94759307606" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="50" height="40" alt="whatsapp logo" /> </a>  <a href="https://www.linkedin.com/in/pasindu-basnayaka" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="40" alt="linkedin logo" /> </a>  </div> ###
 
 <br>
 <!-- Footer Capsule -->
