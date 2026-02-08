@@ -49,7 +49,7 @@ Python • SQL • Machine Learning • Analytics
 ## 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,mongodb,java,js,react,nodejs,html,css,tailwind,docker,git,linux,aws,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,mongodb,java,js,react,nodejs,html,css,tailwind,git,linux,aws,figma&theme=dark" />
 </p>
 
 <p align="center">
