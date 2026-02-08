@@ -21,7 +21,14 @@
 
 <!-- Programming Languages -->
 <h3 align="left">📊 Programming Languages</h3>
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; margin-bottom: 20px;">
+<div style="
+    display: flex;
+    justify-content: center;
+    flex-wrap: nowrap;       /* keep in one line */
+    gap: 10px;
+    overflow-x: auto;        /* allow horizontal scroll on small screens */
+    padding-bottom: 10px;    /* some spacing */
+">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="50" alt="r logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50" alt="numpy logo" />
@@ -44,7 +51,14 @@
 
 <!-- Tools & Platforms -->
 <h3 align="left">🛠️ Tools & Platforms</h3>
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; margin-bottom: 30px;">
+<div style="
+    display: flex;
+    justify-content: center;
+    flex-wrap: nowrap;       /* keep in one line */
+    gap: 10px;
+    overflow-x: auto;        /* allow horizontal scroll on mobile */
+    padding-bottom: 10px;
+">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="vscode logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="50" alt="androidstudio logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="mongodb logo" />
@@ -57,6 +71,7 @@
   <img src="https://skillicons.dev/icons?i=postman" height="50" alt="postman logo" />
   <img src="https://skillicons.dev/icons?i=visualstudio" height="50" alt="visualstudio logo" />
 </div>
+
 
 <!-- Snake Animation -->
 <div style="text-align: center; margin-bottom: 30px;">
