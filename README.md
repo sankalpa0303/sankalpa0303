@@ -1,6 +1,6 @@
 <!-- GIF -->
 <div align="center">
- <p align="center" ><img  src = "https://github.com/sankalpa0303/sankalpa0303/blob/main/about_me.gif" width = 100px></p>
+<p align="center" ><img  src = "https://github.com/pushpikaishan/pushpikaishan/blob/main/about_me.gif" width = 150px></p>
 </div>
 
 
