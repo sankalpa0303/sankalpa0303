@@ -1,6 +1,10 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=20&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=scaleIn&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+<div style="text-align: center;">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=soft&height=20&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=scaleIn&descSize=20&descAlign=50&descAlignY=50&color=gradient"  
+    style="width: 100%; max-width: 800px;" 
+  />
 </div>
+
 
 ###
 
@@ -15,13 +19,30 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="57" height="45" alt="facebook logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="57" height="45" alt="youtube logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="57" height="45" alt="whatsapp logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="57" height="45" alt="telegram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="57" height="45" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="57" height="45" alt="instagram logo"  />
+ <a href="mailto:pasindusanke0303@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="57" height="45" alt="gmail logo" />
+  </a>
+  
+  <a href="https://www.facebook.com/share/1A7Jxxicwq/?mibextid=wwXIfr" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="57" height="45" alt="facebook logo" />
+  </a>
+  <a href="https://www.youtube.com/Pasindu Sankalpa Basnayaka" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="57" height="45" alt="youtube logo" />
+  </a>
+  <a href="https://wa.me/94759307606" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="57" height="45" alt="whatsapp logo" />
+  </a>
+  <a href="https://t.me/@Pasindusanke0303" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="57" height="45" alt="telegram logo" />
+  </a>
+  <a href="https://www.linkedin.com/in/pasindu-basnayaka" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="57" height="45" alt="linkedin logo" />
+  </a>
+  <a href="https://www.instagram.com/sankalpa0303" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="57" height="45" alt="instagram logo" />
+  </a>
 </div>
+
 
 ###
 
@@ -114,22 +135,27 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
 
-###
+<div style="text-align: center;">
+  <img src="https://raw.githubusercontent.com/sankalpa0303/sankalpa0303/output/snake.svg" alt="Snake animation" style="width: 100%; max-width: 800px;" />
+</div
 
-<img src="https://raw.githubusercontent.com/sankalpa0303/sankalpa0303/output/snake.svg" alt="Snake animation" />
 
-###
+<h3 align="left">🔥 My Stats :</h3>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=sankalpa0303&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+<div align="center" style="margin-bottom: 30px;">
+  <img src="https://streak-stats.demolab.com?user=sankalpa0303&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
 </div>
 
-###
+<br>
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=20&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+<div style="text-align: center; margin-top: 30px;">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=soft&height=20&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient" 
+    style="width: 100%; max-width: 800px;" 
+    alt="Footer Capsule"
+  />
 </div>
 
-###
+
+
