@@ -6,7 +6,7 @@
 
 
 <!-- Name -->
-<h1 align="center">hey 👋 I'm Pasindu Sankalpa Basnayaka</h1>
+<h1 align="center">Hey 👋 I'm Pasindu Sankalpa Basnayaka</h1>
 
 <!-- Data Science Typing Line -->
 <p align="center">
