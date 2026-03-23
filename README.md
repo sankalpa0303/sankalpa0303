@@ -1,8 +1,3 @@
-<!-- GIF -->
-<div align="center">
-<p align="center" ><img  src = "https://github.com/pushpikaishan/pushpikaishan/blob/main/about_me.gif" width = 150px></p>
-</div>
-
 
 
 <!-- Name -->
@@ -53,12 +48,6 @@
     <img src="https://skillicons.dev/icons?i=nodejs,express,spring,mysql,mongodb,postman,git,github,androidstudio&perline=16" />
   </a>
 </p>
-
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/a4a1d3ba-750e-4ce1-ae42-a6a5096b08e5" width="400" height="400" alt="about me gif">
-</p>
-
 
 <!-- My Stats -->
 ###
