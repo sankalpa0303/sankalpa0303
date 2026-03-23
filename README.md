@@ -21,12 +21,6 @@
 
 <br>
 
-<!-- Social Media -->
-### <!-- Social Media -->
-### <div align="center"> <a href="mailto:pasindusanke0303@gmail.com" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" height="40" alt="gmail logo" /> </a> <a href="https://www.facebook.com/share/1A7Jxxicwq/?mibextid=wwXIfr" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="50" height="40" alt="facebook logo" /> </a> <a href="https://www.youtube.com/Pasindu Sankalpa Basnayaka" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="50" height="40" alt="youtube logo" /> </a> <a href="https://wa.me/94759307606" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="50" height="40" alt="whatsapp logo" /> </a>  <a href="https://www.linkedin.com/in/pasindu-basnayaka" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="40" alt="linkedin logo" /> </a>  </div>
-
-<br>
-
 <!-- Programming Languages -->
 ###
 ## 🧰 Tech Stack
