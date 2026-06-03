@@ -55,44 +55,7 @@ I enjoy working with data, finding patterns, building useful applications, and s
 
 ---
 
-## GitHub Stats
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sankalpa0303&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" />
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=sankalpa0303&theme=tokyonight&hide_border=true&border_radius=12" />
-
-<br/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sankalpa0303&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
-
-</div>
-
----
-
-## Focus Areas
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="33%">
-<h3>Data Analytics</h3>
-<p>SQL, Excel, Power BI, dashboards, and business insights.</p>
-</td>
-<td align="center" width="33%">
-<h3>Machine Learning</h3>
-<p>Python, Scikit-Learn, model training, and prediction.</p>
-</td>
-<td align="center" width="33%">
-<h3>Full-Stack Development</h3>
-<p>MERN, APIs, databases, and modern web applications.</p>
-</td>
-</tr>
-</table>
-
-</div>
 
 ---
 
