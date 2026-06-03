@@ -57,7 +57,6 @@ I enjoy working with data, finding patterns, building useful applications, and s
 
 
 
----
 
 ## Connect With Me
 
