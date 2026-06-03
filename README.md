@@ -4,8 +4,6 @@
 
 <h3>Data Science Enthusiast | Full-Stack Developer | ML Learner</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&center=true&vCenter=true&width=850&duration=2800&lines=Turning+data+into+meaningful+insights;Python+%7C+SQL+%7C+Machine+Learning+%7C+Analytics;Building+clean+solutions+for+real-world+problems" alt="Typing SVG" />
-
 <br/>
 
 <a href="mailto:pasindusanke0303@gmail.com">
@@ -27,7 +25,6 @@
 I am an IT undergraduate passionate about **Data Science, Machine Learning, and Full-Stack Development**.  
 I enjoy working with data, finding patterns, building useful applications, and solving real-world problems through technology.
 
-- Currently working on an **AI Chatbot using Gemini API**
 - Learning **Python, SQL, Pandas, NumPy, Scikit-Learn, ML, and Data Visualization**
 - Interested in **Data Analytics, Predictive Modeling, and BI Dashboards**
 - Open to collaborate on **Data Science, ML, MERN, and Analytics projects**
@@ -51,7 +48,7 @@ I enjoy working with data, finding patterns, building useful applications, and s
 
 </div>
 
----
+
 
 
 
