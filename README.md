@@ -33,8 +33,6 @@ I enjoy working with data, finding patterns, building useful applications, and s
 - Open to collaborate on **Data Science, ML, MERN, and Analytics projects**
 - Fun fact: I enjoy finding patterns in messy data
 
----
-
 ## Tech Stack
 
 <div align="center">
